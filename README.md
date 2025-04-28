@@ -73,8 +73,6 @@ The model is trained using machine learning algorithms on a dataset containing m
 ---
 
 
----
-
 ## ✨ Acknowledgements
 
 - Thanks to open datasets and machine learning communities for providing resources and knowledge.
